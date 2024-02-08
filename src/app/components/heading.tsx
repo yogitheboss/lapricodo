@@ -1,7 +1,7 @@
 function Heading() {
   return (
-    <div className="w-3/6 text-center">
-      <h2 className="text-3xl mb-4 font-heading text-slate-800">
+    <div className=" w-[80%] text-center  my-10">
+      <h2 className="text-3xl mb-4 font-heading text-purple-800">
         Enter Your Preferences
       </h2>
       <p className="text-lg text-slate-700">

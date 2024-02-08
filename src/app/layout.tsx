@@ -3,6 +3,7 @@ import { Inter, Cormorant_Garamond } from "next/font/google";
 import "./globals.css";
 import clsx from "clsx";
 import Providers from "./providers/providers";
+import 'bootstrap/dist/css/bootstrap.min.css';
 const inter = Inter({ subsets: ["latin"] });
 const cormorantGaramond = Cormorant_Garamond({
   weight: ["400", "500", "600"],
